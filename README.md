@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first "Hello World!" <br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since I wrote my first "Hello World!" <br>📚 I'm currently learning a lot of things<br>🎯 Goals: To build innovative projects and enhance my problem-solving skills.<br>🎲 Fun fact: ...</p>
 
 ###
 
