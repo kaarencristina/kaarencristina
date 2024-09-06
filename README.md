@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Karen and I'm a student, from Brazil</p>
+<p align="left">My name is Karen, and I'm a graduate in Systems Analysis and Development from Brazil. I have a passion for various fields, including web development, networking, and security. Currently, I’m diving deeper into web development and preparing for the CTFL certification for testing.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since I wrote my first "Hello World!" <br>📚 I'm currently learning a lot of things<br>🎯 Goals: To build innovative projects and enhance my problem-solving skills.<br>🎲 Fun fact:  I enjoy exploring different cultures</p>
+<p align="left">✨ Creating bugs since I wrote my first "Hello World!" <br>📚 I'm currently learning a lot of things<br>🎯 Goals: To build innovative projects and enhance my problem-solving skills.<br>🎲 Fun fact:  I adore the field of forensics and find it extremely interesting!</p>
 
 ###
 
