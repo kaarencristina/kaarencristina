@@ -41,7 +41,7 @@ Hello! I'm Karen, a technology enthusiast passionate about learning and explorin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
 
-###
+### Let’s Connect
 
 <div align="left">
   <a href="https://instagram.com/seu_usuario" target="_blank">
