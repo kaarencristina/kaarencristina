@@ -1,6 +1,11 @@
 
 <h2 align="left">Hi 👋! My name is Karen, and I'm a curious learner and technology enthusiast, always exploring new areas in tech!</h2>
 
+
+
+## Sobre Mim
+Hello! I'm Karen, a technology enthusiast passionate about learning and exploring new areas. I hold a degree in Systems Analysis and Development and had the opportunity to participate in an exchange program in the United States, which broadened my worldview and enhanced my communication skills.
+
 ###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGprZm44ZWVlYnN5bWRrbzR3a3A5cWh1anJnMDV6cm5mZ3k2eGFkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" />
