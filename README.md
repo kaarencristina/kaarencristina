@@ -4,7 +4,7 @@
 
 
 ## About Me
-Hello! I'm Karen, a technology enthusiast passionate about learning and exploring new areas. I hold a degree in Systems Analysis and Development and had the opportunity to participate in an exchange program in the United States, which broadened my worldview and enhanced my communication skills.
+I am a technology enthusiast passionate about learning and exploring new areas. I hold a degree in Systems Analysis and Development and had the opportunity to participate in an exchange program in the United States, which broadened my worldview and enhanced my communication skills.
 
 ###
 
