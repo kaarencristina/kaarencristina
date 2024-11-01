@@ -12,6 +12,9 @@ Hello! I'm Karen, a technology enthusiast passionate about learning and explorin
 
 ###
 
+
+## Technical Skills
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
   <img width="12" />
