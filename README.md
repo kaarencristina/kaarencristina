@@ -53,9 +53,7 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
 
 ###
 
-###
 
 <img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGprZm44ZWVlYnN5bWRrbzR3a3A5cWh1anJnMDV6cm5mZ3k2eGFkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" />
 
-###
-```
+
