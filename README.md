@@ -6,11 +6,7 @@
 ## About Me
 I am a technology enthusiast passionate about learning and exploring new areas. I hold a degree in Systems Analysis and Development and had the opportunity to participate in an exchange program in the United States, which broadened my worldview and enhanced my communication skills.
 
-###
 
-<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGprZm44ZWVlYnN5bWRrbzR3a3A5cWh1anJnMDV6cm5mZ3k2eGFkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" />
-
-###
 
 
 ## Technical Skills
@@ -54,6 +50,12 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 </div>
+
+###
+
+###
+
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGprZm44ZWVlYnN5bWRrbzR3a3A5cWh1anJnMDV6cm5mZ3k2eGFkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp" />
 
 ###
 ```
