@@ -38,25 +38,25 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
 </div>
 
 ## Quality Assurance Skills
-## Quality Assurance Skills
 
 <div align="left">
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Postman_logo_2014.svg" height="30" alt="postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Postman_Logo_2022.svg" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jira-Software-Logo.svg/1200px-Jira-Software-Logo.svg.png" height="30" alt="jira logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Jira-Software-Logo.svg" height="30" alt="jira logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg" height="30" alt="jenkins logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo.svg" height="30" alt="jenkins logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TestLink_Logo.svg/500px-TestLink_Logo.svg.png" height="30" alt="testlink logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/TestLink_logo.svg" height="30" alt="testlink logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/TDD_Test_Driven_Development.svg" height="30" alt="tdd logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/TDD_Logo.svg" height="30" alt="tdd logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cucumber_logo.svg" height="30" alt="cucumber logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Cucumber_logo.svg" height="30" alt="cucumber logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Robot_Framework_logo.png" height="30" alt="robot framework logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Robot_Framework_logo.png" height="30" alt="robot framework logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Selenium_Logo.png" height="30" alt="selenium logo" />
 </div>
-
 
 ### Let’s Connect
 
