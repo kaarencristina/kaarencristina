@@ -38,10 +38,9 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
 </div>
 
 ## Quality Assurance Skills
+## Quality Assurance Skills
 
 <div align="left">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Postman_logo_2014.svg" height="30" alt="postman logo" />
   <img width="12" />
@@ -54,7 +53,10 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/TDD_Test_Driven_Development.svg" height="30" alt="tdd logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cucumber_logo.svg" height="30" alt="cucumber logo" />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Robot_Framework_logo.png" height="30" alt="robot framework logo" />
 </div>
+
 
 ### Let’s Connect
 
