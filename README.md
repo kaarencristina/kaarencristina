@@ -36,26 +36,17 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
+
+
 ## Quality Assurance Skills
 
-<div align="left">
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Postman_logo_2022.svg" height="30" alt="Postman logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Jira-Software-Logo.svg" height="30" alt="Jira logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Jenkins_logo.svg" height="30" alt="Jenkins logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/TestLink_logo.svg" height="30" alt="TestLink logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TDD_logo.svg" height="30" alt="TDD logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cucumber_logo.svg" height="30" alt="Cucumber logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Robot_Framework_logo.png" height="30" alt="Robot Framework logo" />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sele
 
+- **Postman**
+- **Jira**
+- **Jenkins**
+- **Cucumber**
+- **Robot Framework**
+- **Selenium**
 
 
 
