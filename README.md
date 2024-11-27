@@ -36,29 +36,26 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
 </div>
-
-## Quality Assurance Skills
-
 ## Quality Assurance Skills
 
 <div align="left">
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/postman-3521664-2945102.png" height="30" alt="Postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Postman_logo_2022.svg" height="30" alt="Postman logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/jira-17-1176556.png" height="30" alt="Jira logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Jira-Software-Logo.svg" height="30" alt="Jira logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/jenkins-12-1175805.png" height="30" alt="Jenkins logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Jenkins_logo.svg" height="30" alt="Jenkins logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/testlink-7-1175531.png" height="30" alt="TestLink logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/TestLink_logo.svg" height="30" alt="TestLink logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/tdd-1175556.png" height="30" alt="TDD logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/TDD_logo.svg" height="30" alt="TDD logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/cucumber-4-1176175.png" height="30" alt="Cucumber logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Cucumber_logo.svg" height="30" alt="Cucumber logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/robot-framework-12-1175554.png" height="30" alt="Robot Framework logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Robot_Framework_logo.png" height="30" alt="Robot Framework logo" />
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/selenium-9-1176114.png" height="30" alt="Selenium logo" />
-</div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Sele
+
 
 
 
