@@ -39,24 +39,27 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
 
 ## Quality Assurance Skills
 
+## Quality Assurance Skills
+
 <div align="left">
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Postman_Logo_2022.svg" height="30" alt="postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Postman_logo_2022.svg" height="30" alt="Postman logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Jira-Software-Logo.svg" height="30" alt="jira logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Jira-Software-Logo.svg" height="30" alt="Jira logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Jenkins_logo.svg" height="30" alt="jenkins logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Jenkins_logo.svg" height="30" alt="Jenkins logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/TestLink_logo.svg" height="30" alt="testlink logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/TestLink_logo.svg" height="30" alt="TestLink logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/TDD_Logo.svg" height="30" alt="tdd logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/TDD_Test_Driven_Development_logo.svg" height="30" alt="TDD logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Cucumber_logo.svg" height="30" alt="cucumber logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Cucumber_logo.svg" height="30" alt="Cucumber logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Robot_Framework_logo.png" height="30" alt="robot framework logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Robot_Framework_logo.png" height="30" alt="Robot Framework logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Selenium_Logo.png" height="30" alt="selenium logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/Selenium_Logo.png" height="30" alt="Selenium logo" />
 </div>
+
 
 ### Let’s Connect
 
