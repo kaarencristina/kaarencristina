@@ -43,17 +43,17 @@ I am a technology enthusiast passionate about learning and exploring new areas. 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" alt="selenium logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Postman_logo_2014.svg/800px-Postman_logo_2014.svg.png" height="30" alt="postman logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Postman_logo_2014.svg" height="30" alt="postman logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/JIRA_logo.svg/800px-JIRA_logo.svg.png" height="30" alt="jira logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Jira-Software-Logo.svg/1200px-Jira-Software-Logo.svg.png" height="30" alt="jira logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Jenkins_logo.svg" height="30" alt="jenkins logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Jenkins_logo.svg" height="30" alt="jenkins logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/TestLink_Logo.svg/500px-TestLink_Logo.svg.png" height="30" alt="testlink logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/TestLink_Logo.svg/500px-TestLink_Logo.svg.png" height="30" alt="testlink logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/TDD_Test_Driven_Development.svg" height="30" alt="tdd logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/TDD_Test_Driven_Development.svg" height="30" alt="tdd logo" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/92/Cucumber_logo.svg" height="30" alt="cucumber logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Cucumber_logo.svg" height="30" alt="cucumber logo" />
 </div>
 
 ### Let’s Connect
