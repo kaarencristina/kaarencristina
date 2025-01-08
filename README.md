@@ -5,15 +5,11 @@ I'm a technology enthusiast passionate about learning and exploring new areas. I
 
 ## Technical Skills
 - **Languages & Frameworks:**
-  <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
+
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo" />
-  </div>
+    
   
 - **Databases:**
   <div align="left">
@@ -29,7 +25,7 @@ I'm a technology enthusiast passionate about learning and exploring new areas. I
   </div>
 
 ## Quality Assurance Skills
-- **Tools:** Postman, Jira, Jenkins, Cucumber, Robot Framework, Selenium
+- **Tools:** Postman, Jira, Selenium
 
 ### Let’s Connect
 Feel free to reach out on my social networks!
